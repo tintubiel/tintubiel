@@ -2,7 +2,7 @@
 <h3 align="left">A student of Mechanics and Mathematical modeling in Moscow Aviation Institute</h3>
 
 - **I’m currently learning:**
-  - Yandex Practicum Data Science,
+  - Yandex Practicum Data Science
   - Yandex Practicum Algorithms & Data Structures
   - Yandex Algorithm Training 3.0
   - MSU Intro to Deep Learning
