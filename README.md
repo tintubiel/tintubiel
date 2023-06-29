@@ -4,6 +4,7 @@
 - **I’m currently learning:**
   - Yandex Practicum Data Science,
   - Yandex Practicum Algorithms & Data Structures
+  - Yandex Algorithm Training 3.0
   - MSU Intro to Deep Learning
   - HSE Applied Statistical Data Analysis
 
