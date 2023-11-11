@@ -1,5 +1,5 @@
 <h1 align="left">Hi , I'm Tina</h1>
-<h3 align="left">A student of Mechanics and Mathematical modeling in Moscow Aviation Institute</h3>
+<h3 align="left">A student of Mechatronics and Theoretical Mechanics in Moscow Aviation Institute</h3>
 
 - **I’m currently learning:**
   - Yandex Practicum Data Science
