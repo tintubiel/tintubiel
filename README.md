@@ -13,4 +13,4 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tintubiel&layout=donut&theme=transparent&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tintubiel&layout=donut&theme=tokyonight&hide_border=true&hide_title=true)
