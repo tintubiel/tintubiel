@@ -1,7 +1,7 @@
 <h1 align="left">Hi , I'm Tina</h1>
 <h3 align="left">A Master’s student in Moscow Aviation Institute, Department of Mechatronics and Theoretical Mechanics.</h3>
 
-- **I took the following courses/itensieves:**
+- **I took the following courses/itensieves in 2023:**
   - Yandex GPT week
   - Yandex Algorithm Training 4.0
   - Yandex ML Training 
