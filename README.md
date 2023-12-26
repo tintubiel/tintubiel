@@ -1,7 +1,8 @@
 <h1 align="left">Hi , I'm Tina</h1>
 <h3 align="left">A Master’s student in Moscow Aviation Institute, Department of Mechatronics and Theoretical Mechanics.</h3>
 
-- **I’m currently learning:**
+- **I took the following courses/itensieves:**
+  - Yandex GPT week
   - Yandex Algorithm Training 4.0
   - Yandex ML Training 
   - HSE Applied Statistical Data Analysis
