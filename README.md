@@ -1,7 +1,8 @@
 <h1 align="left">Hi , I'm Tina</h1>
 <h3 align="left">I have a Master's degree in Mechatronics and Theoretical Mechanics from the Moscow Aviation Institute</h3>
 
-- **I took the following courses/itensieves in 2023:**
+- **I took the following courses/itensieves**
+  - CV Rocket Course
   - Yandex GPT week
   - Yandex Algorithm Training 4.0
   - Yandex ML Training 
